@@ -1,0 +1,149 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="svdesigns.com" resolutions="1x" timestamp="1461919939239">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="4051915486" ref="photography:typographic-explorations:workshops:freelance-work:live-projects"/>
+    <file name="photography.css" crc="3828227750" ref="photography"/>
+    <file name="iefonts_photography.css" crc="96288536" ref="photography"/>
+    <file name="typographic-explorations.css" crc="3931434600" ref="typographic-explorations"/>
+    <file name="iefonts_typographic-explorations.css" crc="3856951336" ref="typographic-explorations"/>
+    <file name="workshops.css" crc="4155270853" ref="workshops"/>
+    <file name="iefonts_workshops.css" crc="9635391" ref="workshops"/>
+    <file name="freelance-work.css" crc="211273215" ref="freelance-work"/>
+    <file name="iefonts_freelance-work.css" crc="468031418" ref="freelance-work"/>
+    <file name="live-projects.css" crc="494458346" ref="live-projects"/>
+    <file name="iefonts_live-projects.css" crc="3805003072" ref="live-projects"/>
+    <file name="index.css" crc="148364594" ref="index"/>
+    <file name="iefonts_index.css" crc="4034369958" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="img_1054.m4v" crc="4060793190" seo="true" mt="1460563454000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="museutils.js" crc="3790713428" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="whatinput.js" crc="84559013" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:typographic-explorations"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="webpro.js" crc="329496574" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u3764.php" crc="4196107419" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="touchswipe.js" crc="497316881" ref="typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0525.jpg" crc="4293806611" ref="index:typographic-explorations"/>
+    <file name="logo white-crop-u126.png" crc="3763399675" ref="index"/>
+    <file name="1458250435_instagram_social_media_online.png" crc="4005728517" seo="true" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="1458250437_pinterest_social_media_online.png" crc="4027778508" seo="true" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="1458250460_twitter_social_media_online.png" crc="4157720507" seo="true" ref="index:typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="1458253266_location.png" crc="3800209733" seo="true" ref="index"/>
+    <file name="1458253283_common-email-envelope-mail-glyph.png" crc="3832145916" seo="true" ref="index"/>
+    <file name="1458253344_aiga_telephone.png" crc="96863884" seo="true" ref="index"/>
+    <file name="u3767-17.png" crc="3959793951" ref="index"/>
+    <file name="u3767-17-r.png" crc="191306453" ref="index"/>
+    <file name="u3767-17-m.png" crc="405130991" ref="index"/>
+    <file name="u3767-17-fs.png" crc="429161142" ref="index"/>
+    <file name="screen shot 2016-04-05 at 152302.jpg" crc="94813415" seo="true" ref="typographic-explorations"/>
+    <file name="blank.gif" crc="4208392903" ref="typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="screen shot 2016-04-05 at 152316.jpg" crc="3872432159" seo="true" ref="typographic-explorations"/>
+    <file name="grid exploration.jpg" crc="3997436239" seo="true" ref="typographic-explorations"/>
+    <file name="final anatomy of typefaces.jpg" crc="4050212279" seo="true" ref="typographic-explorations"/>
+    <file name="ftf manifesto.jpg" crc="3803183594" seo="true" ref="typographic-explorations"/>
+    <file name="img_7895.jpg" crc="4176360847" seo="true" ref="typographic-explorations"/>
+    <file name="img_7842.jpg" crc="3916966214" seo="true" ref="typographic-explorations"/>
+    <file name="img_7888.jpg" crc="258689156" seo="true" ref="typographic-explorations"/>
+    <file name="img_7919.jpg" crc="4258909878" seo="true" ref="typographic-explorations"/>
+    <file name="img_7935.jpg" crc="471368300" seo="true" ref="typographic-explorations"/>
+    <file name="screen shot 2016-04-05 at 152302-crop-u1266.jpg" crc="160366087" ref="typographic-explorations"/>
+    <file name="screen shot 2016-04-05 at 152316-crop-u1286.jpg" crc="4060550756" ref="typographic-explorations"/>
+    <file name="grid exploration64x45.jpg" crc="3843130788" seo="true" ref="typographic-explorations"/>
+    <file name="final anatomy of typefaces-crop-u1140.jpg" crc="4082329960" ref="typographic-explorations"/>
+    <file name="ftf manifesto-crop-u1226.jpg" crc="375050322" ref="typographic-explorations"/>
+    <file name="img_789568x45.jpg" crc="289639454" seo="true" ref="typographic-explorations"/>
+    <file name="img_7842-crop-u2189.jpg" crc="4165895550" ref="typographic-explorations"/>
+    <file name="img_788868x45.jpg" crc="3952597617" seo="true" ref="typographic-explorations"/>
+    <file name="img_791968x45.jpg" crc="4131930922" seo="true" ref="typographic-explorations"/>
+    <file name="img_793560x47.jpg" crc="3871187619" seo="true" ref="typographic-explorations"/>
+    <file name="loading.gif" crc="3815509949" ref="typographic-explorations:live-projects:workshops:freelance-work:photography"/>
+    <file name="final 1.jpg" crc="13386347" seo="true" ref="live-projects"/>
+    <file name="final 2.jpg" crc="326949240" seo="true" ref="live-projects"/>
+    <file name="final 3.jpg" crc="4220007255" seo="true" ref="live-projects"/>
+    <file name="exp 1.jpg" crc="4265968885" seo="true" ref="live-projects"/>
+    <file name="exp 2.jpg" crc="365902020" seo="true" ref="live-projects"/>
+    <file name="exp 4.jpg" crc="221148067" seo="true" ref="live-projects"/>
+    <file name="exp3-crop-u1662.jpg" crc="4273742019" ref="live-projects"/>
+    <file name="final 1-crop-u1390.jpg" crc="4047091872" ref="live-projects"/>
+    <file name="final 2-crop-u1537.jpg" crc="508122378" ref="live-projects"/>
+    <file name="final 3-crop-u1557.jpg" crc="181488483" ref="live-projects"/>
+    <file name="exp 170x45.jpg" crc="4061917852" seo="true" ref="live-projects"/>
+    <file name="exp 271x45.jpg" crc="3870617191" seo="true" ref="live-projects"/>
+    <file name="exp 468x45.jpg" crc="4006177853" seo="true" ref="live-projects"/>
+    <file name="exp3-crop-u1668.jpg" crc="313341739" ref="live-projects"/>
+    <file name="6fd61d_9cedb9321690494ca566207a6e007912.jpg" crc="186322332" seo="true" ref="workshops"/>
+    <file name="6fd61d_113922b491624a13bc2e6a9e576a0a04.jpg" crc="3942139365" seo="true" ref="workshops"/>
+    <file name="6fd61d_27a35a1e0d774612bf71584fcd7d2443.jpg" crc="512465742" seo="true" ref="workshops"/>
+    <file name="6fd61d_cfe8bbfbe9654e64be54fff32ef4794e.jpg" crc="15416929" seo="true" ref="workshops"/>
+    <file name="6fd61d_c2f6f0f774584c98b5b05a5c4067a777.jpg" crc="3973654798" seo="true" ref="workshops"/>
+    <file name="6fd61d_e15f9fabfbcb421395b3b4dfc67de24d.jpg" crc="259316096" seo="true" ref="workshops"/>
+    <file name="6fd61d_9cedb9321690494ca566207a6e00791261x45.jpg" crc="494316829" seo="true" ref="workshops"/>
+    <file name="6fd61d_113922b491624a13bc2e6a9e576a0a04-crop-u1919.jpg" crc="315724315" ref="workshops"/>
+    <file name="6fd61d_27a35a1e0d774612bf71584fcd7d2443-crop-u1879.jpg" crc="329575848" ref="workshops"/>
+    <file name="6fd61d_cfe8bbfbe9654e64be54fff32ef4794e-crop-u1979.jpg" crc="178025680" ref="workshops"/>
+    <file name="6fd61d_c2f6f0f774584c98b5b05a5c4067a77768x45.jpg" crc="89742966" seo="true" ref="workshops"/>
+    <file name="6fd61d_e15f9fabfbcb421395b3b4dfc67de24d61x45.jpg" crc="4154511092" seo="true" ref="workshops"/>
+    <file name="lf logo.jpg" crc="11996730" seo="true" ref="freelance-work"/>
+    <file name="tshirt-crop-u3353.jpg" crc="4080870237" ref="freelance-work"/>
+    <file name="lf magnet large.jpg" crc="3865198069" seo="true" ref="freelance-work"/>
+    <file name="van .jpg" crc="453451286" seo="true" ref="freelance-work"/>
+    <file name="lf leaflet front.jpg" crc="437360984" seo="true" ref="freelance-work"/>
+    <file name="lf leaflet back.jpg" crc="292896968" seo="true" ref="freelance-work"/>
+    <file name="lf on board.jpg" crc="309871994" seo="true" ref="freelance-work"/>
+    <file name="lf sticker.jpg" crc="278405925" seo="true" ref="freelance-work"/>
+    <file name="xmas leaflet.jpg" crc="120265148" seo="true" ref="freelance-work"/>
+    <file name="lf logo69x45.jpg" crc="3903992913" seo="true" ref="freelance-work"/>
+    <file name="tshirt-crop-u3359.jpg" crc="400861739" ref="freelance-work"/>
+    <file name="lf magnet large70x45.jpg" crc="3773370412" seo="true" ref="freelance-work"/>
+    <file name="van 72x45.jpg" crc="4280902062" seo="true" ref="freelance-work"/>
+    <file name="lf leaflet front-crop-u3203.jpg" crc="4118268968" ref="freelance-work"/>
+    <file name="lf leaflet back-crop-u3183.jpg" crc="4190459859" ref="freelance-work"/>
+    <file name="lf on board69x45.jpg" crc="437477125" seo="true" ref="freelance-work"/>
+    <file name="lf sticker69x45.jpg" crc="3961400231" seo="true" ref="freelance-work"/>
+    <file name="xmas leaflet64x45.jpg" crc="4169677283" seo="true" ref="freelance-work"/>
+    <file name="img_0267.jpg" crc="3907649396" seo="true" ref="photography"/>
+    <file name="img_0277.jpg" crc="194049574" seo="true" ref="photography"/>
+    <file name="img_0520.jpg" crc="3985010106" seo="true" ref="photography"/>
+    <file name="img_1062.jpg" crc="3888616105" seo="true" ref="photography"/>
+    <file name="img_2845.jpg" crc="468302211" seo="true" ref="photography"/>
+    <file name="img_3310.jpg" crc="4165114607" seo="true" ref="photography"/>
+    <file name="img_3318.jpg" crc="4260749126" seo="true" ref="photography"/>
+    <file name="img_5917.jpg" crc="3772699679" seo="true" ref="photography"/>
+    <file name="img_5923.jpg" crc="131362300" seo="true" ref="photography"/>
+    <file name="img_5927.jpg" crc="292499500" seo="true" ref="photography"/>
+    <file name="img_6078.jpg" crc="3931157477" seo="true" ref="photography"/>
+    <file name="img_6087.jpg" crc="406488611" seo="true" ref="photography"/>
+    <file name="img_7790.jpg" crc="267937741" seo="true" ref="photography"/>
+    <file name="img_026768x45.jpg" crc="4135704794" seo="true" ref="photography"/>
+    <file name="img_027768x45.jpg" crc="4276316476" seo="true" ref="photography"/>
+    <file name="img_0520-crop-u2599.jpg" crc="4073849664" ref="photography"/>
+    <file name="img_1062-crop-u2619.jpg" crc="4075831948" ref="photography"/>
+    <file name="img_2845-crop-u2639.jpg" crc="3971702826" ref="photography"/>
+    <file name="img_3310-crop-u2659.jpg" crc="3852756580" ref="photography"/>
+    <file name="img_331861x45.jpg" crc="4212862772" seo="true" ref="photography"/>
+    <file name="img_591760x45.jpg" crc="244900893" seo="true" ref="photography"/>
+    <file name="img_592360x45.jpg" crc="458611561" seo="true" ref="photography"/>
+    <file name="img_592760x45.jpg" crc="186096549" seo="true" ref="photography"/>
+    <file name="img_6078-crop-u2799.jpg" crc="4053635342" ref="photography"/>
+    <file name="img_6087-crop-u2819.jpg" crc="364288682" ref="photography"/>
+    <file name="img_7790-crop-u2867.jpg" crc="3815658419" ref="photography"/>
+  </folder>
+  <file name="index.html" crc="88035849" seo="true" mt="1461865196875" redirect="true"/>
+  <file name="typographic-explorations.html" crc="76666330" seo="true" mt="1461780892153" redirect="true"/>
+  <file name="live-projects.html" crc="112125321" seo="true" mt="1461780892153" redirect="true"/>
+  <file name="workshops.html" crc="471627737" seo="true" mt="1461780892153" redirect="true"/>
+  <file name="freelance-work.html" crc="219806129" seo="true" mt="1461780892153" redirect="true"/>
+  <file name="photography.html" crc="212301883" seo="true" mt="1461780892153" redirect="true"/>
+</manifest>
